@@ -1,3 +1,11 @@
+/*
+ * This js file will produce typewriter like effect on the homepage of portfolio site.
+ * script written by Ashish Patel
+ * Full Stack Web Developer
+ * National Institute of Technology Agartala
+ * Using Shabdawali library.
+*/
+
 
 $(document).ready(function () {
   let el = document.getElementById("shabdawali");
